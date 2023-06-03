@@ -1,0 +1,31 @@
+.record-button{
+  position: absolute;
+  bottom: 5%;
+  left: 48%;
+  background-color: rgb(39, 95, 248);
+  padding: 1.5%;
+  color: white;
+  border-radius: 50px;
+  box-shadow: 4px 4px 4px rgb(148, 146, 146);
+}
+
+.record-button:hover{
+  box-shadow: none;
+  padding: 1.45%;
+}
+
+.stop-button {
+  position: absolute;
+  bottom: 5%;
+  left: 48%;
+  background-color: rgb(249 27 75);
+  padding: 1.5%;
+  color: white;
+  border-radius: 50px;
+  box-shadow: 4px 4px 4px rgb(148, 146, 146);
+}
+
+.stop-button:hover{
+  box-shadow: none;
+  padding: 1.45%;
+}
