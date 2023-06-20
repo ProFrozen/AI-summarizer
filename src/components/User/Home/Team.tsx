@@ -103,7 +103,7 @@ const Team = () => {
               </div>
               <div>
                 <h3 className="bb lh th xh di _j el">
-                  Nikola
+                  dev
                 </h3>
                 <p className="font-heading mh bi">
                   Project Developer
